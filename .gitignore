@@ -15,3 +15,6 @@ yarn-error.log
 /.vscode
 #ignored large files
 *.zip
+*.pdf
+*.mp4
+*.mp3
